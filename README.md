@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coderbennett
 - 👀 I’m interested in gaming, exercise, nature, and fighting for human rights.
-- 🌱 I’m currently learning Kotlin & Android development.
-- 💞️ I’m looking to collaborate on developing apps or making games in Unity
+- 🌱 I’m currently learning Full-Stack Web Development.
+- 💞️ I’m looking to collaborate on developing web apps or making games in Unity
 - 📫 You can reach me on twitter @coder_bennett
 
 <!---
