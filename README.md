@@ -1,8 +1,10 @@
 # Hi there, I'm joey
 Welcome to my github profile!
+
+## About
 My name is Joey and I am a Full-Stack developer in the California Bay Area (USA).
 
-Technologies I use:
+## Technologies I use:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,14 +37,12 @@ Technologies I use:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-- 👋 Hi, I’m @coderbennett
-- 💞️ I’m interested in gaming, exercise, nature, and fighting for human rights.
-- 🌱 I’m currently learning Full-Stack Web Development at UC Berkeley's Extended Education Bootcamp.
-- 👀 I’m looking to work full time on web apps with passionate and motivated teams.
-- 📫 You can reach me on twitter @joeykalanchoe
+## Where to reach me:
 
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://github.com/coderbennett" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://twitter.com/joeykalanchoe" target="_blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/joey-bennett-jkb/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://medium.com/@joeykb17" target="_blank">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 <!---
 joeymonterey/joeymonterey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
