@@ -2,7 +2,7 @@
 Welcome to my github profile!
 
 ## About
-My name is Joey and I am a Full-Stack developer in the California Bay Area (USA).
+My name is Joey and I am a software engineer in the California Bay Area (USA).
 
 ## Technologies I use:
 
