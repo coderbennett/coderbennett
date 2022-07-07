@@ -1,5 +1,5 @@
 # Hi there, I'm joey
-Welcome to my github profile!
+Welcome to my GitHub profile!
 
 ## About
 My name is Joey and I am a software engineer in the California Bay Area (USA).
